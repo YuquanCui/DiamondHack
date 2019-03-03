@@ -1,6 +1,9 @@
 ## Instructions
 First, you need to have [Python installed](https://www.python.org/downloads/release/python-372/) *version 3.7.2.* 
-You can download the repository by clicking "Clone or Download" button on the top right. Open the terminal on Mac or command prompt in Windows and go to the folder where you put the downloaded files.
+
+You can download the repository by clicking "Clone or Download" button on the top right. 
+
+Open the terminal on Mac or command prompt in Windows and go to the folder where you put the downloaded files.
 ```terminal
 cd directory_path
 ```
